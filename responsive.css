@@ -127,14 +127,6 @@
     #sidebar-active:checked ~ .close-sidebar {
         display: block;
     }    
-
-    .home-link {
-        box-sizing: border-box;
-        height: auto;
-        width: 100%;
-        padding: 20px 30px;
-        justify-content: center;
-    }
     .nav-right {
         display: flex;
         margin: auto;
