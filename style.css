@@ -53,8 +53,9 @@ header {
     width: 35%;
     display: flex;
     justify-content: end;
-
+    align-items: center;
 }
+
 .nav-left a:hover {
     text-decoration: underline;
     font-weight: bold;
